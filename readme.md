@@ -2,6 +2,8 @@ Hello, this is my webpage
 
 #### Machine Learning Bounds
 
+I gather all these information from ChatGPT. It is a fast way to search for relevant information as it is difficult to find the specific webpage on each topic. You should try to derive the bounds. Although you cannot derive new bounds, deriving old bounds help you understand the techniques and algorithms better.
+
 ### batch size
 ### gradient descent
 ## stochastic, newton, fixed and decreasing learning rate, conjugate accelerated nesterov gd, stability, sensitivity, differential equations bounds
