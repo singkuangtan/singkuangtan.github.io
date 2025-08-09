@@ -5,7 +5,7 @@ Hello, this is my webpage
 I gather all these information from ChatGPT. It is a fast way to search for relevant information as it is difficult to find the specific webpage on each topic. You should try to derive the bounds. Although you cannot derive new bounds, deriving old bounds help you understand the techniques and algorithms better.
 
 ### batch size
-<img src="screenshot 2025-08-09 at 3.38.04 PM.png" alt="alt text" width="400">
+<img src="Screenshot 2025-08-09 at 3.38.04 PM.png" alt="alt text" width="400">
 
 Deep learning does stochastic gradient descent. So the gradient is modeled as a determinstic gradient with Gaussian noise added. The variance of the gradient decreases with increase in batch size.
 
