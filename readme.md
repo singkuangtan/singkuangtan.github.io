@@ -48,13 +48,59 @@ For soft margin SVM, the VC dimension increases with slack variable. The slack v
 This is the VC dimension of decision tree. Basically it means that decision tree will shatter the input space into 2 to the power of D subspace as represented by the leaves, with D different classes at the leaves. 
 
 ## multilayer perceptron, ensembles max and mean outputs, compare similarity
+
+![alt text](<Screenshot 2025-08-10 at 6.12.21 PM.png>)
+
+![alt text](<Screenshot 2025-08-10 at 6.15.35 PM.png>)
+
+Note that the Bagging or Boosting uses majority vote.
+
+There are similarity between multilayer perceptron VC dim and ensembles VC dim. Is there a relationship between them? Can we convert MLP to ensembles learning?
+
 ## transformer, attention
+
+![alt text](<Screenshot 2025-08-10 at 6.21.47 PM.png>)
+
+Transformer model vc dim is same as MLP and it is related to size of attention layer matrix, n^2.
+
 ## group conv, alexnet double branches bound
 ### chevesky bound
+
+![alt text](<Screenshot 2025-08-10 at 6.00.04 PM.png>)
+
 ## variance reduction
+
+![alt text](<Screenshot 2025-08-10 at 6.05.21 PM.png>)
+
+![alt text](<Screenshot 2025-08-10 at 6.06.41 PM.png>)
+
+![alt text](<Screenshot 2025-08-10 at 6.07.24 PM.png>)
+
+![alt text](<Screenshot 2025-08-10 at 6.08.23 PM.png>)
+
+![alt text](<Screenshot 2025-08-10 at 6.09.31 PM.png>)
+
+![alt text](<Screenshot 2025-08-10 at 6.10.25 PM.png>)
+
+
+
+
+
 ### convexity
 ## super, l smooth learning rate, cross entropy l smooth factor, quadratic with large condition number pl condition
 ### sparsity learning
+<img src="Screenshot 2025-08-09 at 9.59.11 PM.png" alt="alt text" width="400">
+
+Restricted isometry property is when matrix A becomes othonormal when machine learning with sparsity constraints. Sparsity greatly reduces the number of training samples to learn the weights.
+
+<img src="Screenshot 2025-08-09 at 10.00.20 PM.png" alt="alt text" width="400">
+
+Sparsity increases the accuracy bound by sqrt of s where s is the sparsity level.
+
+<img src="Screenshot 2025-08-09 at 10.00.46 PM.png" alt="alt text" width="400">
+
+Sparsity in network reduce the per-step cost of training stochastic gradient descent from W to s.
+
 ### svm number of training samples
 ### l2 regularization bound
 ### pca, lda, ica bounds
