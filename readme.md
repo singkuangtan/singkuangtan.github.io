@@ -113,9 +113,35 @@ Sparsity increases the accuracy bound by sqrt of s where s is the sparsity level
 Sparsity in network reduce the per-step cost of training stochastic gradient descent from W to s.
 
 ### svm number of training samples
+
+![alt text](<Screenshot 2025-08-16 at 1.23.01 AM.png>)
+
 ### l2 regularization bound
+
+![alt text](<Screenshot 2025-08-16 at 1.25.34 AM.png>) 
+
+![alt text](<Screenshot 2025-08-16 at 1.25.22 AM.png>)
+
 ### pca, lda, ica bounds
+
+![alt text](<Screenshot 2025-08-16 at 1.27.30 AM.png>) 
+
+![alt text](<Screenshot 2025-08-16 at 1.27.51 AM.png>) 
+
+![alt text](<Screenshot 2025-08-16 at 1.28.08 AM.png>)
+
+
 ### geometric complexity entropy bound
+
+![alt text](<Screenshot 2025-08-16 at 1.29.40 AM.png>) 
+
+![alt text](<Screenshot 2025-08-16 at 1.29.57 AM.png>)
+
 ### matrix svd bounds
+
+![alt text](<Screenshot 2025-08-16 at 1.31.47 AM.png>) 
+
+![alt text](<Screenshot 2025-08-16 at 1.32.01 AM.png>)
+
 ### genetic algo, annealing, ant bounds
 ### markov chain bounds
