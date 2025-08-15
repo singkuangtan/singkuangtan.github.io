@@ -88,6 +88,17 @@ Transformer model vc dim is same as MLP and it is related to size of attention l
 
 ### convexity
 ## super, l smooth learning rate, cross entropy l smooth factor, quadratic with large condition number pl condition
+
+![alt text](<Screenshot 2025-08-16 at 1.06.33 AM.png>)
+
+![alt text](<Screenshot 2025-08-16 at 1.08.56 AM.png>) 
+
+![alt text](<Screenshot 2025-08-16 at 1.09.19 AM.png>)
+
+![alt text](<Screenshot 2025-08-16 at 1.12.10 AM.png>) 
+
+![alt text](<Screenshot 2025-08-16 at 1.11.58 AM.png>)
+
 ### sparsity learning
 <img src="Screenshot 2025-08-09 at 9.59.11 PM.png" alt="alt text" width="400">
 
