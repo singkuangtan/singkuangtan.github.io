@@ -60,9 +60,9 @@ This is the VC dimension of decision tree. Basically it means that decision tree
 
 <h2 style="color:blue;">Multilayer Perceptron, Ensembles Max and Mean Outputs, Compare Similarity</h2>
 
-![alt text](<Screenshot 2025-08-10 at 6.12.21 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.12.21 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-10 at 6.15.35 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.15.35 PM.png" alt="alt text" width="400">
 
 Note that the Bagging or Boosting uses majority vote.
 
@@ -70,7 +70,7 @@ There are similarity between multilayer perceptron VC dim and ensembles VC dim. 
 
 <h2 style="color:blue;">Transformer model, Attention layer</h2>
 
-![alt text](<Screenshot 2025-08-10 at 6.21.47 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.21.47 PM.png" alt="alt text" width="400">
 
 Transformer model vc dim is same as MLP and it is related to size of attention layer matrix, n^2.
 
@@ -78,21 +78,21 @@ Transformer model vc dim is same as MLP and it is related to size of attention l
 
 <h3 style="color:blue;">Chebyshev Bound</h3>
 
-![alt text](<Screenshot 2025-08-10 at 6.00.04 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.00.04 PM.png" alt="alt text" width="400">
 
 <h2 style="color:blue;">Variance Reduction</h2>
 
-![alt text](<Screenshot 2025-08-10 at 6.05.21 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.05.21 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-10 at 6.06.41 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.06.41 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-10 at 6.07.24 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.07.24 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-10 at 6.08.23 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.08.23 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-10 at 6.09.31 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.09.31 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-10 at 6.10.25 PM.png>)
+<img src="Screenshot 2025-08-10 at 6.10.25 PM.png" alt="alt text" width="400">
 
 
 
@@ -102,15 +102,15 @@ Transformer model vc dim is same as MLP and it is related to size of attention l
 
 <h2 style="color:blue;">Super Convergence, L-smooth Learning Rate, Cross Entropy Loss L-smooth Factor, Quadratic Loss with Large Condition Number, PL Condition</h2>
 
-![alt text](<Screenshot 2025-08-16 at 1.06.33 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.06.33 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.08.56 AM.png>) 
+<img src="Screenshot 2025-08-16 at 1.08.56 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.09.19 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.09.19 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.12.10 AM.png>) 
+<img src="Screenshot 2025-08-16 at 1.12.10 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.11.58 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.11.58 AM.png" alt="alt text" width="400">
 
 <h3 style="color:blue;">Sparsity Learning</h3>
 
@@ -128,74 +128,74 @@ Sparsity in network reduce the per-step cost of training stochastic gradient des
 
 <h3 style="color:blue;">Support Vector Machine, Number of training samples</h3>
 
-![alt text](<Screenshot 2025-08-16 at 1.23.01 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.23.01 AM.png" alt="alt text" width="400">
 
 <h3 style="color:blue;">L2 Norm Regularization Bound</h3>
 
-![alt text](<Screenshot 2025-08-16 at 1.25.34 AM.png>) 
+<img src="Screenshot 2025-08-16 at 1.25.34 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.25.22 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.25.22 AM.png" alt="alt text" width="400">
 
 <h3 style="color:blue;">Principal Component Analysis, Linear Discriminant Analysis, Independent Component Analysis Bounds</h3>
 
-![alt text](<Screenshot 2025-08-16 at 1.27.30 AM.png>) 
+<img src="Screenshot 2025-08-16 at 1.27.30 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.27.51 AM.png>) 
+<img src="Screenshot 2025-08-16 at 1.27.51 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.28.08 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.28.08 AM.png" alt="alt text" width="400">
 
 
 <h3 style="color:blue;">Geometric Complexity Entropy Bounds</h3>
 
-![alt text](<Screenshot 2025-08-16 at 1.29.40 AM.png>) 
+<img src="Screenshot 2025-08-16 at 1.29.40 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.29.57 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.29.57 AM.png" alt="alt text" width="400">
 
 <h3 style="color:blue;">Matrix Singular Value Decomposition Bounds</h3>
 
-![alt text](<Screenshot 2025-08-16 at 1.31.47 AM.png>) 
+<img src="Screenshot 2025-08-16 at 1.31.47 AM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-16 at 1.32.01 AM.png>)
+<img src="Screenshot 2025-08-16 at 1.32.01 AM.png" alt="alt text" width="400">
 
 <h3 style="color:blue;">Genetic Algorithm, Stimulated Annealing, Ant Colony Bounds</h3>
 
 
-![alt text](<Screenshot 2025-08-24 at 6.33.39 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.33.39 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.33.52 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.33.52 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.34.10 PM.png>)
+<img src="Screenshot 2025-08-24 at 6.34.10 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.36.47 PM.png>)
+<img src="Screenshot 2025-08-24 at 6.36.47 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.37.04 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.37.04 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.37.20 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.37.20 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.38.14 PM.png>)
+<img src="Screenshot 2025-08-24 at 6.38.14 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.40.22 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.40.22 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.40.37 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.40.37 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.40.55 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.40.55 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.41.11 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.41.11 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.41.24 PM.png>)
+<img src="Screenshot 2025-08-24 at 6.41.24 PM.png" alt="alt text" width="400">
 
 <h3 style="color:blue;">Markov Chain Bounds</h3>
 
-![alt text](<Screenshot 2025-08-24 at 6.44.18 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.44.18 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.44.36 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.44.36 PM.png" alt="alt text" width="400"
 
-![alt text](<Screenshot 2025-08-24 at 6.44.51 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.44.51 PM.png" alt="alt text" width="400"> 
 
-![alt text](<Screenshot 2025-08-24 at 6.45.03 PM.png>) 
+<img src="Screenshot 2025-08-24 at 6.45.03 PM.png" alt="alt text" width="400">
 
-![alt text](<Screenshot 2025-08-24 at 6.45.16 PM.png>)
+<img src="Screenshot 2025-08-24 at 6.45.16 PM.png" alt="alt text" width="400">
 
 <h1 style="color:blue;">The End</h1>
 
-![alt text](neon-genesis-evangelion-asuka-langley-sohryu-lying-down-anime-wallpaper-preview.jpg)
+<img src="neon-genesis-evangelion-asuka-langley-sohryu-lying-down-anime-wallpaper-preview.jpg" alt="alt text" width="400">
