@@ -5,11 +5,13 @@ h1 {
 Hello, this is my webpage
 
 <div style="background-color:black; color:white; padding:10px;"> 
+
 <h1 style="color:blue;">Machine Learning Bounds</h1>
 
 I gather all these information from ChatGPT. It is a fast way to search for relevant information as it is difficult to find the specific webpage on each topic. You should try to derive the bounds. Although you cannot derive new bounds, deriving old bounds help you understand the techniques and algorithms better.
 
 <h3 style="color:blue;">Batch Size</h3>
+
 <img src="Screenshot 2025-08-09 at 3.38.04 PM.png" alt="alt text" width="400">
 
 Deep learning does stochastic gradient descent. So the gradient is modeled as a determinstic gradient with Gaussian noise added. The variance of the gradient decreases with increase in batch size.
@@ -37,10 +39,13 @@ For stochastic gradient descent, the decrease rate of loss function is 1/sqrt(t)
 The error bound of stochastic gradient descent can be summarized by 2 terms, one is the deterministic rate 1/t and another is the non-deterministic rate determined by the batch size B.
 
 <h2 style="color:blue;">Stochastic Gradient Descent, Newton Method, Fixed and Decreasing Learning Rate, Conjugate Accelerated Nesterov Gradient Descent, Stability, Sensitivity, Differential Equations Bounds</h2>
+
 <h3 style="color:blue;">VC Dimension</h3>
+
 Vapnik–Chervonenkis dimension is a measure of the capacity of a machine learning model or algorithm. How much information can it learns. Higer VC dim is usually better but it may overfit and learn the noise in the data. We can further fix this by using regularization, which I will talk more in the later part. Some models such as K nearest neighbors classifier has infinite VC dimension. The VC dimension will keep on increasing as the number of data points increase. Non parametric probbability distribution estimation is another example.
 
 <h2 style="color:blue;">Decision Tree, Support Vector Machine, Quadratic Kernels</h2>
+
 <img src="Screenshot 2025-08-09 at 3.15.44 PM.png" alt="alt text" width="400">
 
 The VC dimension of linear SVM is d+1. Because the hyperplane can shatter the input space into D + 1 possible regions. This is the same for perceptron (1 layer) in deep learning. 
@@ -70,6 +75,7 @@ There are similarity between multilayer perceptron VC dim and ensembles VC dim. 
 Transformer model vc dim is same as MLP and it is related to size of attention layer matrix, n^2.
 
 <h2 style="color:blue;">Group Convolution, Alexnet double branches bound</h2>
+
 <h3 style="color:blue;">Chebyshev Bound</h3>
 
 ![alt text](<Screenshot 2025-08-10 at 6.00.04 PM.png>)
@@ -93,6 +99,7 @@ Transformer model vc dim is same as MLP and it is related to size of attention l
 
 
 <h3 style="color:blue;">Convexity</h3>
+
 <h2 style="color:blue;">Super Convergence, L-smooth Learning Rate, Cross Entropy Loss L-smooth Factor, Quadratic Loss with Large Condition Number, PL Condition</h2>
 
 ![alt text](<Screenshot 2025-08-16 at 1.06.33 AM.png>)
@@ -106,6 +113,7 @@ Transformer model vc dim is same as MLP and it is related to size of attention l
 ![alt text](<Screenshot 2025-08-16 at 1.11.58 AM.png>)
 
 <h3 style="color:blue;">Sparsity Learning</h3>
+
 <img src="Screenshot 2025-08-09 at 9.59.11 PM.png" alt="alt text" width="400">
 
 Restricted isometry property is when matrix A becomes othonormal when machine learning with sparsity constraints. Sparsity greatly reduces the number of training samples to learn the weights.
