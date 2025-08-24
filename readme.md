@@ -1,6 +1,3 @@
-h1 {
-  color: #ff5733;
-}
 
 Hello, this is my webpage
 
@@ -188,7 +185,7 @@ Sparsity in network reduce the per-step cost of training stochastic gradient des
 
 <img src="Screenshot 2025-08-24 at 6.44.18 PM.png" alt="alt text" width="400">
 
-<img src="Screenshot 2025-08-24 at 6.44.36 PM.png" alt="alt text" width="400"
+<img src="Screenshot 2025-08-24 at 6.44.36 PM.png" alt="alt text" width="400">
 
 <img src="Screenshot 2025-08-24 at 6.44.51 PM.png" alt="alt text" width="400"> 
 
