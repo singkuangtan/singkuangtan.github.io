@@ -69,7 +69,7 @@ There are similarity between multilayer perceptron VC dim and ensembles VC dim. 
 
 <img src="Screenshot 2025-08-10 at 6.21.47 PM.png" alt="alt text" width="400">
 
-Transformer model vc dim is same as MLP and it is related to size of attention layer matrix, n^2.
+Transformer model vc dim is same as MLP and it is related to size of attention layer matrix, n^2. Transformer has better scaling law than convolutional network, therefore I think transformer is the future.
 
 <h2 style="color:blue;">Group Convolution, Alexnet double branches bound</h2>
 
@@ -181,6 +181,8 @@ Sparsity in network reduce the per-step cost of training stochastic gradient des
 
 <img src="Screenshot 2025-08-24 at 6.41.24 PM.png" alt="alt text" width="400">
 
+These metaheuristic algorithms have poorer accuracy and convergence rate bounds than deep learning algorithms. The adding of noise in diffusion image generation network is like stimulated annealing algorithm. Genetic algorithm is used in deep learning architecture search. Reinforcement learning algorithm is generally better than genetic algorithm in neural architecture search.
+
 <h3 style="color:blue;">Markov Chain Bounds</h3>
 
 <img src="Screenshot 2025-08-24 at 6.44.18 PM.png" alt="alt text" width="400">
@@ -192,6 +194,24 @@ Sparsity in network reduce the per-step cost of training stochastic gradient des
 <img src="Screenshot 2025-08-24 at 6.45.03 PM.png" alt="alt text" width="400">
 
 <img src="Screenshot 2025-08-24 at 6.45.16 PM.png" alt="alt text" width="400">
+
+<h3 style="color:blue;">Graph Neural Network Convergence Requirements</h3>
+
+<img src="Screenshot 2025-08-30 at 12.15.17 AM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-08-30 at 12.15.37 AM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-08-30 at 12.15.52 AM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-08-30 at 12.16.05 AM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-08-30 at 12.16.21 AM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-08-30 at 12.19.39 AM.png" alt="alt text" width="400">
+
+Generally, a cycle free graph will have a more stable weights updating.
+
+Asynchronous weights updating is generally more stable than synchronous weights updating. That is also why stochastic gradient descent is better conventional gradient descent.
 
 <h1 style="color:blue;">The End</h1>
 
