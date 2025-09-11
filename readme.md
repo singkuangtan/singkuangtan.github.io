@@ -213,6 +213,32 @@ Generally, a cycle free graph will have a more stable weights updating.
 
 Asynchronous weights updating is generally more stable than synchronous weights updating. That is also why stochastic gradient descent is better conventional gradient descent.
 
+<h3 style="color:blue;">Markov Random Field Bounds</h3>
+
+<img src="Screenshot 2025-09-11 at 7.30.42 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-11 at 7.30.56 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-11 at 7.31.15 PM.png" alt="alt text" width="400">
+
+Tree-like graph approximation of multi-branches deep learning network can estimate certain accuracy bounds of the deep learning network.
+
+<h2 style="color:blue;">K Nearest Neighbors Bounds, Variance-Bias Bounds</h3>
+
+<img src="Screenshot 2025-09-11 at 7.51.17 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-11 at 7.51.33 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-11 at 7.51.43 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-11 at 7.51.58 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-11 at 7.52.14 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-11 at 7.52.28 PM.png" alt="alt text" width="400">
+
+Some similar variance-bias bounds are used in Neural Tangent Kernel (NTK) theory to predict the performances and learning behaviors of deep learning network.
+
 <h1 style="color:blue;">The End</h1>
 
 <img src="neon-genesis-evangelion-asuka-langley-sohryu-lying-down-anime-wallpaper-preview.jpg" alt="alt text" width="400">
