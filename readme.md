@@ -1,6 +1,8 @@
 
 Hello, this is my webpage
 
+<img src="Screenshot 2025-09-17 at 8.21.27 PM.png" alt="alt text" width="400">
+
 <div style="background-color:black; color:white; padding:10px;"> 
 
 <h1 style="color:blue;">Machine Learning Bounds</h1>
@@ -223,7 +225,7 @@ Asynchronous weights updating is generally more stable than synchronous weights 
 
 Tree-like graph approximation of multi-branches deep learning network can estimate certain accuracy bounds of the deep learning network.
 
-<h2 style="color:blue;">K Nearest Neighbors Bounds, Variance-Bias Bounds</h3>
+<h2 style="color:blue;">K Nearest Neighbors Bounds, Variance-Bias Bounds</h2>
 
 <img src="Screenshot 2025-09-11 at 7.51.17 PM.png" alt="alt text" width="400">
 
@@ -238,6 +240,38 @@ Tree-like graph approximation of multi-branches deep learning network can estima
 <img src="Screenshot 2025-09-11 at 7.52.28 PM.png" alt="alt text" width="400">
 
 Some similar variance-bias bounds are used in Neural Tangent Kernel (NTK) theory to predict the performances and learning behaviors of deep learning network.
+
+<h2 style="color:blue;">Convex Relaxation Bounds</h2>
+
+These are some of the relaxed optimization functions to find approximate solutions to three coloring problem with certain bounds to the optimal solutions.
+
+<img src="Screenshot 2025-09-17 at 7.50.21 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-17 at 7.50.37 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-17 at 7.50.51 PM.png" alt="alt text" width="400">
+
+Often, to derive a bound for a problem, the original algebraic formulation is too rigid to be transformed to compute aggregated properties of the loss function of problem.
+
+So the problem is relaxed by approximating it with another set of algebraic equations. Then the equations are further transformed to generate aggregated properties bounds.
+
+Later, I will talk about travelling salesman bounds.
+
+<img src="Screenshot 2025-09-17 at 8.03.50 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-17 at 8.04.09 PM.png" alt="alt text" width="400"> 
+
+<img src="Screenshot 2025-09-17 at 8.04.21 PM.png" alt="alt text" width="400">
+
+<h2 style="color:blue;">Clustering Algorithm Bounds</h2>
+
+<img src="Screenshot 2025-09-17 at 8.11.01 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-17 at 8.11.14 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-17 at 8.11.27 PM.png" alt="alt text" width="400">
+
+<img src="Screenshot 2025-09-17 at 8.11.37 PM.png" alt="alt text" width="400">
 
 <h1 style="color:blue;">The End</h1>
 
