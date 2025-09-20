@@ -273,6 +273,18 @@ Later, I will talk about travelling salesman bounds.
 
 <img src="Screenshot 2025-09-17 at 8.11.37 PM.png" alt="alt text" width="400">
 
+<h2 style="color:blue;">Mathematical Series Bounds</h2>
+
+Fourier series has many uses in signal processing, computer vision and deep learning. For example in computer vision, to align (image registeration) an image with another image. Fourier features are used in machine learning and deep learning.
+
+<img src="Screenshot 2025-09-20 at 10.24.38 PM.png" alt="alt text" width="400"> 
+
+<img src="Screenshot 2025-09-20 at 10.24.54 PM.png" alt="alt text" width="400"> 
+
+<img src="Screenshot 2025-09-20 at 10.25.14 PM.png" alt="alt text" width="400">
+
+Certain families of orthogonal polynomials such as Lengendre Polynomial can be used to design activation functions which is similar to Kolmogorov-Arnold Network (KAN) network. Pade polynomial approximation, similar to Talyor series can be used to approximate relu and other types of activation functions, which can be used to study the mathematical properties of deep learning networks.
+
 <h1 style="color:blue;">The End</h1>
 
 <img src="neon-genesis-evangelion-asuka-langley-sohryu-lying-down-anime-wallpaper-preview.jpg" alt="alt text" width="400">
