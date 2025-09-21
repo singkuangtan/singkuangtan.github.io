@@ -285,6 +285,16 @@ Fourier series has many uses in signal processing, computer vision and deep lear
 
 Certain families of orthogonal polynomials such as Lengendre Polynomial can be used to design activation functions which is similar to Kolmogorov-Arnold Network (KAN) network. Pade polynomial approximation, similar to Talyor series can be used to approximate relu and other types of activation functions, which can be used to study the mathematical properties of deep learning networks.
 
+<h2 style="color:blue;">Finite Automata Bounds</h2>
+
+Automata, regular expression and state machines are often used in grammar and spelling corrections. They can represent algorithm flowchart and study the convergence (or termination property) of algorithm. Large language model is a Transformer deep learning model, which is memoryless and can be represented by Automata. Some of the mathematical bounds can be used to infer properties of large language model. If you reverse the order of characters in a text and train an finite automata to recognize it, it may sometimes lead to exponential number of states with respect to number of characters in a text, but is polynomial states size if the text is not reversed.
+
+<img src="Screenshot 2025-09-21 at 9.25.47 PM.png" alt="alt text" width="400"> 
+
+<img src="Screenshot 2025-09-21 at 9.26.01 PM.png" alt="alt text" width="400"> 
+
+<img src="Screenshot 2025-09-21 at 9.26.20 PM.png" alt="alt text" width="400">
+
 <h1 style="color:blue;">The End</h1>
 
 <img src="neon-genesis-evangelion-asuka-langley-sohryu-lying-down-anime-wallpaper-preview.jpg" alt="alt text" width="400">
